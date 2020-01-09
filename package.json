@@ -1,0 +1,11 @@
+{
+    "name": "CallPrankBOT",
+    "description": "CallPrankBOT",
+    "version": "1.0.0",
+    "main": "bot.py",
+    "keywords": [],
+    "author": "",
+	"devDependencies": {
+	"numpy": "^1.17.0",
+	}
+}
