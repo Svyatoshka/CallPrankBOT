@@ -12,7 +12,7 @@ from flask import Flask
 app = Flask(__name__)
 
 
-access_token = 'a62696290df3a3e82d694cc7009121ea0a074ecee7d3248596773a9946703eb3a6f81333b0785c6b0de4c' #Токен группы (должны быть права на сообщения)
+access_token = '' #Токен группы (должны быть права на сообщения)
 public_key = '21b6b9ce10e0406a0e9878d4d6f7bb5f' #API ключ от zvonok.com
 group_id = '119524270' #ID группы (положительное число!)
 
